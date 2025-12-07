@@ -8,7 +8,6 @@ C:\Users\HP ProBook\source\repos\General\obj\Debug\net8.0-windows\General.Genera
 C:\Users\HP ProBook\source\repos\General\obj\Debug\net8.0-windows\General.AssemblyInfoInputs.cache
 C:\Users\HP ProBook\source\repos\General\obj\Debug\net8.0-windows\General.AssemblyInfo.cs
 C:\Users\HP ProBook\source\repos\General\obj\Debug\net8.0-windows\General.csproj.CoreCompileInputs.cache
-C:\Users\HP ProBook\source\repos\General\obj\Debug\net8.0-windows\General.sourcelink.json
 C:\Users\HP ProBook\source\repos\General\obj\Debug\net8.0-windows\General.dll
 C:\Users\HP ProBook\source\repos\General\obj\Debug\net8.0-windows\refint\General.dll
 C:\Users\HP ProBook\source\repos\General\obj\Debug\net8.0-windows\General.pdb
@@ -18,3 +17,6 @@ C:\Users\HP ProBook\source\repos\General\obj\Debug\net8.0-windows\General.Welcom
 C:\Users\HP ProBook\source\repos\General\obj\Debug\net8.0-windows\General.InseringData.resources
 C:\Users\HP ProBook\source\repos\General\obj\Debug\net8.0-windows\General.ChangingPlaces.resources
 C:\Users\HP ProBook\source\repos\General\obj\Debug\net8.0-windows\General.ChangingPlacesChatVersion.resources
+C:\Users\HP ProBook\source\repos\General\obj\Debug\net8.0-windows\General.FirstPage.resources
+C:\Users\HP ProBook\source\repos\General\obj\Debug\net8.0-windows\General.WelcomePage.resources
+C:\Users\HP ProBook\source\repos\General\obj\Debug\net8.0-windows\General.Register.resources

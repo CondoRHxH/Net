@@ -7,10 +7,19 @@
     <Compile Update="ChangingPlacesChatVersion.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="FirstPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="InseringData.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="WelcomeNom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WelcomePage.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
