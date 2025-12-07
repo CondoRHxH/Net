@@ -21,7 +21,7 @@ namespace General
         private void button1_Click(object sender, EventArgs e)
         {
             FirstPage.users.Add(new string[] { textBox1.Text, textBox2.Text });
-            MessageBox.Show("You are now registered!");
+            MessageBox.Show("You are now registered!!!");
             new FirstPage().Show(); this.Hide();
 
             FirstPage f1 = new FirstPage();
