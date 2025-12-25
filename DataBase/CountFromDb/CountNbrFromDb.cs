@@ -14,7 +14,7 @@ namespace CountFromDb
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string con = @"Data Source=DESKTOP-R2SM92D\SQLEXPRESS;
+            string con = @"Data Source=.;
                    Initial Catalog=Tp.netCount;
                    Trusted_Connection=True;
                    Encrypt=False";
